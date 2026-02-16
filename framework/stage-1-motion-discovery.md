@@ -1,30 +1,77 @@
 # Stage 1: Motion Discovery
 
-Objective: Identify the components required for a repeatable revenue motion.
+Objective: Extract and document the founder-led revenue motion as explicit hypotheses.
 
-Stage 1 is not about generating more revenue.
-It is about understanding why revenue happens.
+Stage 1 is diagnostic and structural.
+It makes the implicit explicit.
 
-This stage tests the first two dimensions of repeatability:
+It does not validate repeatability.
+It defines what would need to be repeatable.
 
-1. Access  
-   Can we systematically reach the defined ICP through specific channels?
+---
 
-2. Positioning  
-   Does consistent messaging produce stable conversion across similar prospects?
+## Phase 1: Revenue Concentration
 
-Key Questions:
-- Who is our true ICP based on revenue concentration?
-- Which channels produce qualified meetings reliably?
-- What messaging converts and why?
-- Where is the founder compensating with intuition or credibility?
+Analyze:
+- Revenue distribution by customer
+- Industry patterns
+- Deal size variance
+- Retention patterns
 
-Deliverables:
-- Defined primary ICP
-- 2–3 tested channels with documented data
+Deliverable:
+- Revenue concentration analysis
+- Early signal of high-value segments
+
+---
+
+## Phase 2: ICP Definition
+
+From concentration analysis, define:
+
+- Primary ICP
+- Secondary ICP (if relevant)
+- Buyer persona
+- Triggering events
+
+Deliverable:
+- Written ICP hypothesis
+- Disqualifiers defined
+
+---
+
+## Phase 3: Acquisition Hypotheses
+
+Document:
+
+- Inbound sources
+- Outbound methods
+- Network leverage
+- Founder credibility loops
+
+Deliverable:
+- Acquisition hypothesis list
+- Channel prioritization assumptions
+
+---
+
+## Phase 4: Founder Narrative Capture
+
+Extract:
+
+- Core positioning
+- Objection handling patterns
+- Decision triggers
+- Implicit qualification filters
+
+Deliverable:
 - Documented sales narrative
-- Conversion baseline by segment
-- Preliminary CAC estimate
+- Objection library
+- Current sales flow map
 
-Exit Criteria:
-Evidence that access and positioning are not dependent on founder improvisation.
+---
+
+## Stage 1 Exit Criteria
+
+- Founder-led motion is fully documented
+- ICP and acquisition hypotheses are explicit
+- Assumptions are visible and testable
