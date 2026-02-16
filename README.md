@@ -18,6 +18,32 @@ Revenue Motion Development is a structured, stage-based system for:
 
 ---
 
+## Why This Exists
+
+Product-market fit identifies early customers and validates real demand.
+
+It answers:
+- Who experiences acute pain?
+- Why does the product matter?
+- Will someone pay for this?
+
+But early traction does not prove repeatability.
+
+Repeatability means the team knows how to systematically access, position to, and convert a defined ideal customer profile — without founder dependence and with viable unit economics.
+
+Founders often close early deals through intuition, credibility, and adaptive judgment. Revenue happens. But the underlying motion may not yet be transferable or systematic.
+
+When companies mistake early traction for repeatability, they scale prematurely (hiring, expanding channels, increasing spend) before proving the motion can be executed predictably.
+
+The failure mode confuses traction with repeatability.
+
+Revenue Motion Development exists to impose staged discovery and validation before scale.
+
+For a formal definition, see: [Definition of Repeatability](framework/definition-of-repeatability.md)
+
+
+---
+
 ## Who This Is For
 
 - Founders with early traction (10–50 customers)
