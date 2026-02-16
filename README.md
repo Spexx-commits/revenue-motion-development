@@ -1,6 +1,9 @@
 # Revenue Motion Development
 
+> A stage-based system for transforming founder-led sales into scalable revenue infrastructure.
+
 ### A Framework for Post-PMF Go-to-Market Discovery
+
 
 Most startups treat post-product-market-fit growth as an execution problem.
 
