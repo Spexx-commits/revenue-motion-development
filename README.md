@@ -18,6 +18,21 @@ Revenue Motion Development is a structured, stage-based system for:
 
 ---
 
+## Who This Is For
+
+- Founders with early traction (10–50 customers)
+- Teams transitioning from founder-led sales
+- Startups preparing for Series A
+- Companies unsure whether they have a repeatable motion
+
+## Who This Is Not For
+
+- Pre-product-market-fit startups still searching for demand
+- Companies already running a mature, specialized revenue org
+- Teams looking for quick tactical hacks instead of system design
+
+---
+
 ## The Four Stages
 
 1. Motion Discovery  
